@@ -1,0 +1,367 @@
+# Webalizer V2.23-08 Incremental Data - 02/21/2017 12:46:34
+2017 2 21 12 46 34
+145 114 45 35 5 10 56841971 20 20 0
+6 7 34 2 21
+0 0 0 0 0 0
+2 1 6848 1 0 0
+1 0 0 1 1 1
+11 9 5708137 7 3 3
+1 1 259234 1 0 0
+34 33 20034647 1 1 1
+3 0 1326 3 1 1
+1 0 0 1 1 1
+1 1 259234 1 0 0
+0 0 0 0 0 0
+21 18 241729 6 3 3
+19 9 4453611 12 3 3
+0 0 0 0 0 0
+34 33 20034647 1 1 1
+4 0 1326 4 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 0 1 1 1
+3 1 5587 3 2 2
+9 8 5835645 6 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+5 2 12435 2
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 0 0 2
+1 0 0 1
+4 0 1326 2
+0 0 0 0
+3 0 1326 1
+14 12 184991 1
+1 0 0 1
+2 1 5587 1
+7 7 5828797 1
+0 0 0 0
+3 2 266082 0
+2 1 5587 1
+35 34 20293881 1
+0 0 0 0
+0 0 0 0
+22 14 4504762 2
+0 0 0 0
+34 33 20034647 1
+8 8 5702550 1
+2 0 0 2
+0
+0
+0
+114
+0
+0
+0
+0
+0
+8
+0
+0
+0
+0
+10
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+13
+0
+0
+0
+0
+0
+# -urls- 
+/img/logos/uniqlo-kid.jpg
+0 2 0 38720 0 0
+/img/team/nguyen_manh_dai.jpg
+0 2 0 51060 0 0
+/js/contact_me.js
+0 4 0 3752 0 0
+/vendor/font-awesome/css/font-awesome.min.css
+0 3 0 20025 0 0
+/img/logos/envato.jpg
+0 2 0 39830 0 0
+/img/team/dang_hong_minh.jpg
+0 2 0 266948 0 0
+/img/team/tran_huy_hung.jpg
+0 2 0 334898 0 0
+/img/team/kids.png
+0 2 0 89216 0 0
+/img/logos/uniqlo-women.jpg
+0 2 0 48834 0 0
+/vendor/bootstrap/css/bootstrap.min.css
+0 3 0 59259 0 0
+/img/portfolio/5.png
+0 6 0 8696162 0 0
+/img/header-bg-01.jpg
+0 2 0 1563974 0 0
+/img/portfolio/4.png
+0 6 0 8466062 0 0
+/css/agency.css
+0 3 0 9075 0 0
+/img/portfolio/3.jpg
+0 6 0 6424583 0 0
+/js/jqBootstrapValidation.js
+0 4 0 27184 0 0
+/img/portfolio/2.png
+0 6 0 11275336 0 0
+/vendor/jquery/jquery.min.js
+0 4 0 135224 0 0
+/img/uniqlo-logo.png
+0 6 0 37110 0 0
+/img/portfolio/6.jpg
+0 6 0 5872996 0 0
+/img/map-image.png
+0 2 0 728076 0 0
+/img/header-bg.jpg
+0 2 0 1166926 0 0
+/vendor/font-awesome/fonts/fontawesome-webfont.woff
+0 1 0 90412 0 0
+/vendor/bootstrap/js/bootstrap.min.js
+0 4 0 39380 0 0
+/css/slide-show-header.css
+0 3 0 2631 0 0
+/js/agency.min.js
+0 4 0 1716 0 0
+/img/logos/uniqlo-men.jpg
+0 2 0 38884 0 0
+/img/header-bg-03.jpg
+0 2 0 1785400 0 0
+/
+0 20 0 49240 20 1
+/vendor/font-awesome/fonts/fontawesome-webfont.woff2
+0 2 0 143792 0 0
+/img/header-bg-02.jpg
+0 2 0 1875872 0 0
+/img/team/1.jpg
+0 2 0 115448 0 0
+/img/portfolio/1.jpg
+0 6 0 6665099 0 0
+/img/portfolio/roundicons-free.png
+0 2 0 518468 0 0
+/img/team/2.jpg
+0 5 0 151760 0 0
+# End Of Table - urls
+# -sites- (monthly)
+123.30.175.139
+0 3 1 7511 0 0
+-
+66.220.146.24
+0 1 1 259234 0 0
+-
+64.74.215.176
+0 6 6 56738 1 1486841899
+/
+180.76.15.22
+0 1 0 0 1 1486457909
+/
+66.249.79.86
+0 1 0 663 0 0
+-
+180.76.15.23
+0 2 0 663 1 1486788089
+/
+173.252.90.247
+0 2 2 18000 0 0
+-
+180.76.15.26
+0 1 0 663 0 0
+-
+118.71.134.34
+0 34 33 20034647 1 1486417558
+/
+66.220.148.167
+0 1 1 836705 0 0
+-
+180.76.15.144
+0 1 0 0 1 1487565365
+/
+31.13.110.126
+0 1 1 259234 0 0
+-
+173.252.90.238
+0 2 2 15185 0 0
+-
+69.171.230.117
+0 1 1 4924 1 1487681183
+/
+180.76.15.139
+0 2 0 0 2 1487201052
+/
+173.252.90.242
+0 2 2 13924 1 1486928990
+/
+173.252.91.106
+0 1 1 833809 0 0
+-
+66.220.148.103
+0 2 2 1801074 0 0
+-
+66.220.148.165
+0 2 2 1965907 0 0
+-
+123.30.175.173
+0 1 0 663 0 0
+-
+173.252.90.239
+0 1 1 9000 0 0
+-
+180.76.15.155
+0 1 0 0 1 1486858892
+/
+180.76.15.32
+0 1 0 0 1 1487140170
+/
+123.30.175.167
+0 2 1 5587 1 1486897343
+/
+173.252.91.100
+0 1 1 896073 0 0
+-
+66.220.148.166
+0 2 2 2058579 0 0
+-
+66.220.148.105
+0 1 1 657154 0 0
+-
+180.76.15.5
+0 1 0 0 1 1487487306
+/
+123.30.175.169
+0 1 1 4924 1 1487550699
+/
+173.252.90.246
+0 1 1 9000 0 0
+-
+66.220.148.106
+0 3 3 1817701 0 0
+-
+180.76.15.16
+0 1 0 0 1 1486595720
+/
+180.76.15.17
+0 1 0 663 0 0
+-
+117.6.99.241
+0 34 33 20034647 1 1487089249
+/
+64.74.215.124
+0 11 11 177480 1 1486805388
+/
+123.30.175.140
+0 3 2 13033 0 0
+-
+66.220.148.168
+0 1 1 962682 0 0
+-
+180.76.15.135
+0 1 0 663 0 0
+-
+173.252.91.102
+0 3 3 1112525 0 0
+-
+123.30.175.168
+0 2 1 5587 1 1486223268
+/
+173.252.90.234
+0 1 1 9000 0 0
+-
+69.171.230.99
+0 1 1 4924 1 1486246601
+/
+180.76.15.19
+0 1 0 0 1 1486116276
+/
+66.220.148.104
+0 1 1 1421697 0 0
+-
+173.252.91.101
+0 2 2 1531508 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+123.30.175.139
+0 2 1 6848 0 0
+-
+66.220.148.167
+0 1 1 836705 0 0
+-
+69.171.230.117
+0 1 1 4924 1 1487681183
+/
+66.220.148.165
+0 2 2 1965907 0 0
+-
+66.220.148.166
+0 2 2 2058579 0 0
+-
+66.220.148.168
+0 1 1 962682 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://aouniqlonhatban.lutica.vn/vendor/font-awesome/css/font-awesome.min.css
+0 2
+- (Direct Request)
+0 56
+http://aouniqlonhatban.lutica.vn/
+0 77
+http://aouniqlonhatban.lutica.vn/css/agency.css
+0 4
+http://aouniqlonhatban.lutica.vn/css/slide-show-header.css
+0 6
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
+0 6
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 10
+Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2
+0 4
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 1
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.27+ (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27
+0 11
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+0 34
+Mozilla/5.0 (compatible; coccocbot-web/1.0; +http://help.coccoc.com/searchengine)
+0 6
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 33
+Mozilla/5.0 (compatible; coccocbot-image/1.0; +http://help.coccoc.com/searchengine)
+0 6
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 34
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
