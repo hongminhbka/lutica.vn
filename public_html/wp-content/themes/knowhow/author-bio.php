@@ -1,7 +1,7 @@
 <?php 
 if (get_the_author_meta('description') != '') { ?>
       <section id="entry-author" class="clearfix">
-        <?php if ( !is_author() ) { ?><h3 id="entry-author-title"><?php _e('About The Author', 'framework') ?></h3><?php } ?>
+        <?php if ( !is_author() ) { ?><h3 id="entry-author-title"><?php _e('Về trung tâm gia sư', 'framework') ?></h3><?php } ?>
         <div class="gravatar">
           <?php if(function_exists('get_avatar')) { echo get_avatar( get_the_author_meta('email'), '70' );   } ?>
         </div>
