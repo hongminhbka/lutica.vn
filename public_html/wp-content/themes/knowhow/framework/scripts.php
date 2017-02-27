@@ -8,7 +8,6 @@ function st_enqueue_scripts() {
 	* Load our main theme JavaScript file
 	*/
 	wp_enqueue_script('st_theme_custom', get_template_directory_uri() . '/js/functions.js', array( 'jquery' ), false, true);
-	
 	/*
 	* Register JavaScript for Live Search
 	*/

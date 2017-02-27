@@ -46,8 +46,7 @@ function st_theme_styles() {
 	* (will be moved to plugin soon)
 	*/
 	wp_enqueue_style( 'shortcodes', get_template_directory_uri() . '/framework/shortcodes/shortcodes.css' );
-	
-	
+
 	/*
 	* Load theme custom colors
 	*/
